@@ -21,3 +21,4 @@ m = Match.new
 m.teams << Team.first
 m.teams << Team.last
 m.save
+#created 1 match with 2 teams and 4 players
